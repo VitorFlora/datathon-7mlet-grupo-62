@@ -1,0 +1,185 @@
+[
+    {
+        "game_id": 20,
+        "game_name": "Team Fortress Classic",
+        "base_price": 4.99,
+        "release_date": "1999-04-01",
+        "primary_genre": "Action",
+        "semantic_profile": []
+    },
+    {
+        "game_id": 240,
+        "game_name": "Counter-Strike: Source",
+        "base_price": 9.99,
+        "release_date": "2004-11-01",
+        "primary_genre": "Action",
+        "semantic_profile": [
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "First-Person Shooter",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Tactical",
+                "weight": 0.6
+            }
+        ]
+    },
+    {
+        "game_id": 300,
+        "game_name": "Day of Defeat: Source",
+        "base_price": 9.99,
+        "release_date": "2010-07-12",
+        "primary_genre": "Action",
+        "semantic_profile": []
+    },
+    {
+        "game_id": 320,
+        "game_name": "Half-Life 2: Deathmatch",
+        "base_price": 0.0,
+        "release_date": "2004-11-01",
+        "primary_genre": "Action",
+        "semantic_profile": [
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "First-Person Shooter",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "Physics-Based Gameplay",
+                "weight": 0.2
+            }
+        ]
+    },
+    {
+        "game_id": 360,
+        "game_name": "Half-Life Deathmatch: Source",
+        "base_price": 9.99,
+        "release_date": "2006-05-01",
+        "primary_genre": "FPS",
+        "semantic_profile": []
+    },
+    {
+        "game_id": 440,
+        "game_name": "Team Fortress 2",
+        "base_price": 0.0,
+        "release_date": "2007-10-10",
+        "primary_genre": "Action",
+        "semantic_profile": [
+            {
+                "feature_name": "Violence",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Competition",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Strategy",
+                "weight": 0.3
+            }
+        ]
+    },
+    {
+        "game_id": 570,
+        "game_name": "Dota 2",
+        "base_price": 0.0,
+        "release_date": "2013-07-09",
+        "primary_genre": "Strategy",
+        "semantic_profile": [
+            {
+                "feature_name": "Negative Sentiment",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Informal Language",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "Emotional Tone",
+                "weight": 0.2
+            }
+        ]
+    },
+    {
+        "game_id": 1500,
+        "game_name": "Darwinia",
+        "base_price": 9.99,
+        "release_date": "2005-07-14",
+        "primary_genre": "Strategy",
+        "semantic_profile": [
+            {
+                "feature_name": "Confusion",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Frustration",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Disappointment",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Boredom",
+                "weight": 0.5
+            }
+        ]
+    },
+    {
+        "game_id": 1610,
+        "game_name": "Space Empires IV Deluxe",
+        "base_price": 1.99,
+        "release_date": "2006-02-07",
+        "primary_genre": "Strategy",
+        "semantic_profile": [
+            {
+                "feature_name": "Turn-based",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "4X",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Space",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Sci-fi",
+                "weight": 0.5
+            }
+        ]
+    },
+    {
+        "game_id": 2280,
+        "game_name": "The Ultimate DOOM",
+        "base_price": 9.99,
+        "release_date": "2007-08-03",
+        "primary_genre": "Action",
+        "semantic_profile": [
+            {
+                "feature_name": "Violence",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Fast-paced gameplay",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Exploration",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Puzzle-solving",
+                "weight": 0.3
+            }
+        ]
+    }
+]
