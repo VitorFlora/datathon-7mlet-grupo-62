@@ -1,0 +1,56 @@
+# ==============================================================
+# .gitignore - Datathon 7-MLET / Grupo 62
+# ==============================================================
+
+# --- Segredos e variaveis de ambiente ---
+# O .env real NUNCA pode ir para o Git. Apenas o .env.example (template) e versionado.
+.env
+.env.*
+!.env.example
+
+# --- Ambientes virtuais Python ---
+.venv/
+env/
+venv/
+ENV/
+.conda/
+.anaconda/
+conda-meta/
+miniconda/
+miniconda3/
+
+# --- Caches e arquivos temporarios do Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# --- Dados brutos do Kaggle (grandes, baixados via instrucoes do README) ---
+# Regra: ignoramos os CSVs brutos, mas mantemos a camada derivada (JSON/JSONL).
+data/kaggle/*.csv
+*.xlsx
+*.parquet
+*.sqlite
+*.db
+
+# Garante que os dados derivados versionados (exigencia do edital) NAO sejam ignorados:
+!data/processed/*.json
+!data/synthetic_enrichment/*.json
+!data/synthetic_enrichment/*.jsonl
+!data/golden_set/*.jsonl
+
+# --- ChromaDB (vector store local) ---
+chroma_db/
+chroma.sqlite3
+.chroma/
+
+# --- MLflow (Etapa 7) ---
+mlruns/
+mlartifacts/
+
+# --- Arquivos do sistema operacional / editor ---
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/settings.json
