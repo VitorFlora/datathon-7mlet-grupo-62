@@ -1,0 +1,7450 @@
+[
+    {
+        "arm_id": 0,
+        "game_id": 10,
+        "game_name": "Counter-Strike",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Competitive",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Simple",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Addictive",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Community-driven",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 1,
+        "game_id": 10,
+        "game_name": "Counter-Strike",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Competitive",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Simple",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Addictive",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Community-driven",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 2,
+        "game_id": 10,
+        "game_name": "Counter-Strike",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Competitive",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Simple",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Addictive",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Community-driven",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 3,
+        "game_id": 10,
+        "game_name": "Counter-Strike",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Competitive",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Simple",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Addictive",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Community-driven",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 4,
+        "game_id": 20,
+        "game_name": "Team Fortress Classic",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.2
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Community",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Customization",
+                "weight": 0.7
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 5,
+        "game_id": 20,
+        "game_name": "Team Fortress Classic",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.2
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Community",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Customization",
+                "weight": 0.7
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 6,
+        "game_id": 20,
+        "game_name": "Team Fortress Classic",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.2
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Community",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Customization",
+                "weight": 0.7
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 7,
+        "game_id": 20,
+        "game_name": "Team Fortress Classic",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.2
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Community",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Customization",
+                "weight": 0.7
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 8,
+        "game_id": 30,
+        "game_name": "Day of Defeat",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.2
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.1
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.9
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 9,
+        "game_id": 30,
+        "game_name": "Day of Defeat",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.2
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.1
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.9
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 10,
+        "game_id": 30,
+        "game_name": "Day of Defeat",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.2
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.1
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.9
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 11,
+        "game_id": 30,
+        "game_name": "Day of Defeat",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.2
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.1
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.9
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 12,
+        "game_id": 40,
+        "game_name": "Deathmatch Classic",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Fast-paced",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Addictive",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Community",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "Single-player",
+                "weight": -0.2
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 13,
+        "game_id": 40,
+        "game_name": "Deathmatch Classic",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Fast-paced",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Addictive",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Community",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "Single-player",
+                "weight": -0.2
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 14,
+        "game_id": 40,
+        "game_name": "Deathmatch Classic",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Fast-paced",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Addictive",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Community",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "Single-player",
+                "weight": -0.2
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 15,
+        "game_id": 40,
+        "game_name": "Deathmatch Classic",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Fast-paced",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Addictive",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Community",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "Single-player",
+                "weight": -0.2
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 16,
+        "game_id": 50,
+        "game_name": "Half-Life: Opposing Force",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay Mechanics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics and Sound",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Replay Value",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 17,
+        "game_id": 50,
+        "game_name": "Half-Life: Opposing Force",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay Mechanics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics and Sound",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Replay Value",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 18,
+        "game_id": 50,
+        "game_name": "Half-Life: Opposing Force",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay Mechanics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics and Sound",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Replay Value",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 19,
+        "game_id": 50,
+        "game_name": "Half-Life: Opposing Force",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay Mechanics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics and Sound",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Replay Value",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 20,
+        "game_id": 60,
+        "game_name": "Ricochet",
+        "primary_genre": "Action",
+        "semantic_features": [
+            {
+                "feature_name": "Fun",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": -0.2
+            },
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Replayability",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Originality",
+                "weight": 0.6
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 21,
+        "game_id": 60,
+        "game_name": "Ricochet",
+        "primary_genre": "Action",
+        "semantic_features": [
+            {
+                "feature_name": "Fun",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": -0.2
+            },
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Replayability",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Originality",
+                "weight": 0.6
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 22,
+        "game_id": 60,
+        "game_name": "Ricochet",
+        "primary_genre": "Action",
+        "semantic_features": [
+            {
+                "feature_name": "Fun",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": -0.2
+            },
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Replayability",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Originality",
+                "weight": 0.6
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 23,
+        "game_id": 60,
+        "game_name": "Ricochet",
+        "primary_genre": "Action",
+        "semantic_features": [
+            {
+                "feature_name": "Fun",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": -0.2
+            },
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Replayability",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Originality",
+                "weight": 0.6
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 24,
+        "game_id": 70,
+        "game_name": "Half-Life",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Storyline",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Replayability",
+                "weight": 0.8
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 25,
+        "game_id": 70,
+        "game_name": "Half-Life",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Storyline",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Replayability",
+                "weight": 0.8
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 26,
+        "game_id": 70,
+        "game_name": "Half-Life",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Storyline",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Replayability",
+                "weight": 0.8
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 27,
+        "game_id": 70,
+        "game_name": "Half-Life",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Storyline",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Replayability",
+                "weight": 0.8
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 28,
+        "game_id": 80,
+        "game_name": "Counter-Strike: Condition Zero",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Single-Player Campaign",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Difficulty Levels",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "AI",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Sound Design",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Community",
+                "weight": 0.7
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 29,
+        "game_id": 80,
+        "game_name": "Counter-Strike: Condition Zero",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Single-Player Campaign",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Difficulty Levels",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "AI",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Sound Design",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Community",
+                "weight": 0.7
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 30,
+        "game_id": 80,
+        "game_name": "Counter-Strike: Condition Zero",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Single-Player Campaign",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Difficulty Levels",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "AI",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Sound Design",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Community",
+                "weight": 0.7
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 31,
+        "game_id": 80,
+        "game_name": "Counter-Strike: Condition Zero",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Single-Player Campaign",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Difficulty Levels",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "AI",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Sound Design",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Community",
+                "weight": 0.7
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 32,
+        "game_id": 130,
+        "game_name": "Half-Life: Blue Shift",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 33,
+        "game_id": 130,
+        "game_name": "Half-Life: Blue Shift",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 34,
+        "game_id": 130,
+        "game_name": "Half-Life: Blue Shift",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 35,
+        "game_id": 130,
+        "game_name": "Half-Life: Blue Shift",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 36,
+        "game_id": 220,
+        "game_name": "Half-Life 2",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Physics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Replay Value",
+                "weight": 0.6
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 37,
+        "game_id": 220,
+        "game_name": "Half-Life 2",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Physics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Replay Value",
+                "weight": 0.6
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 38,
+        "game_id": 220,
+        "game_name": "Half-Life 2",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Physics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Replay Value",
+                "weight": 0.6
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 39,
+        "game_id": 220,
+        "game_name": "Half-Life 2",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Physics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Replay Value",
+                "weight": 0.6
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 40,
+        "game_id": 240,
+        "game_name": "Counter-Strike: Source",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "humor",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "community_involvement",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "gameplay",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "graphics",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "multiplayer",
+                "weight": 0.5
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 41,
+        "game_id": 240,
+        "game_name": "Counter-Strike: Source",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "humor",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "community_involvement",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "gameplay",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "graphics",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "multiplayer",
+                "weight": 0.5
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 42,
+        "game_id": 240,
+        "game_name": "Counter-Strike: Source",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "humor",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "community_involvement",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "gameplay",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "graphics",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "multiplayer",
+                "weight": 0.5
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 43,
+        "game_id": 240,
+        "game_name": "Counter-Strike: Source",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "humor",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "community_involvement",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "gameplay",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "graphics",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "multiplayer",
+                "weight": 0.5
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 44,
+        "game_id": 280,
+        "game_name": "Half-Life: Source",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Story",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "AI",
+                "weight": 0.5
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 45,
+        "game_id": 280,
+        "game_name": "Half-Life: Source",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Story",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "AI",
+                "weight": 0.5
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 46,
+        "game_id": 280,
+        "game_name": "Half-Life: Source",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Story",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "AI",
+                "weight": 0.5
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 47,
+        "game_id": 280,
+        "game_name": "Half-Life: Source",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Story",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "AI",
+                "weight": 0.5
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 48,
+        "game_id": 300,
+        "game_name": "Day of Defeat: Source",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Historical Setting",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Teamwork",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Balance",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Map Design",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Realism",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 49,
+        "game_id": 300,
+        "game_name": "Day of Defeat: Source",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Historical Setting",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Teamwork",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Balance",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Map Design",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Realism",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 50,
+        "game_id": 300,
+        "game_name": "Day of Defeat: Source",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Historical Setting",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Teamwork",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Balance",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Map Design",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Realism",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 51,
+        "game_id": 300,
+        "game_name": "Day of Defeat: Source",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Historical Setting",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Teamwork",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Balance",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Map Design",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Realism",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 52,
+        "game_id": 320,
+        "game_name": "Half-Life 2: Deathmatch",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay Variety",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Community Engagement",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Mod Support",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Graphics and Sound",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Storyline and Narrative",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 53,
+        "game_id": 320,
+        "game_name": "Half-Life 2: Deathmatch",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay Variety",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Community Engagement",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Mod Support",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Graphics and Sound",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Storyline and Narrative",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 54,
+        "game_id": 320,
+        "game_name": "Half-Life 2: Deathmatch",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay Variety",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Community Engagement",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Mod Support",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Graphics and Sound",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Storyline and Narrative",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 55,
+        "game_id": 320,
+        "game_name": "Half-Life 2: Deathmatch",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay Variety",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Community Engagement",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Mod Support",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Graphics and Sound",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Storyline and Narrative",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 56,
+        "game_id": 340,
+        "game_name": "Half-Life 2: Lost Coast",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.2
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Technical Aspects",
+                "weight": 0.8
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 57,
+        "game_id": 340,
+        "game_name": "Half-Life 2: Lost Coast",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.2
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Technical Aspects",
+                "weight": 0.8
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 58,
+        "game_id": 340,
+        "game_name": "Half-Life 2: Lost Coast",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.2
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Technical Aspects",
+                "weight": 0.8
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 59,
+        "game_id": 340,
+        "game_name": "Half-Life 2: Lost Coast",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.2
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Technical Aspects",
+                "weight": 0.8
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 60,
+        "game_id": 360,
+        "game_name": "Half-Life Deathmatch: Source",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": -0.5
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Community",
+                "weight": -1.2
+            },
+            {
+                "feature_name": "Value for Money",
+                "weight": 0.9
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 61,
+        "game_id": 360,
+        "game_name": "Half-Life Deathmatch: Source",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": -0.5
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Community",
+                "weight": -1.2
+            },
+            {
+                "feature_name": "Value for Money",
+                "weight": 0.9
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 62,
+        "game_id": 360,
+        "game_name": "Half-Life Deathmatch: Source",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": -0.5
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Community",
+                "weight": -1.2
+            },
+            {
+                "feature_name": "Value for Money",
+                "weight": 0.9
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 63,
+        "game_id": 360,
+        "game_name": "Half-Life Deathmatch: Source",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": -0.5
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Community",
+                "weight": -1.2
+            },
+            {
+                "feature_name": "Value for Money",
+                "weight": 0.9
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 64,
+        "game_id": 380,
+        "game_name": "Half-Life 2: Episode One",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Storyline",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Length",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Originality",
+                "weight": 0.4
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 65,
+        "game_id": 380,
+        "game_name": "Half-Life 2: Episode One",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Storyline",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Length",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Originality",
+                "weight": 0.4
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 66,
+        "game_id": 380,
+        "game_name": "Half-Life 2: Episode One",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Storyline",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Length",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Originality",
+                "weight": 0.4
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 67,
+        "game_id": 380,
+        "game_name": "Half-Life 2: Episode One",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Storyline",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Length",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Originality",
+                "weight": 0.4
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 68,
+        "game_id": 400,
+        "game_name": "Portal",
+        "primary_genre": "Puzzle",
+        "semantic_features": [
+            {
+                "feature_name": "Originality",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Storytelling",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Gameplay Mechanics",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Difficulty Level",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Length",
+                "weight": 0.4
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 69,
+        "game_id": 400,
+        "game_name": "Portal",
+        "primary_genre": "Puzzle",
+        "semantic_features": [
+            {
+                "feature_name": "Originality",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Storytelling",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Gameplay Mechanics",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Difficulty Level",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Length",
+                "weight": 0.4
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 70,
+        "game_id": 400,
+        "game_name": "Portal",
+        "primary_genre": "Puzzle",
+        "semantic_features": [
+            {
+                "feature_name": "Originality",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Storytelling",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Gameplay Mechanics",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Difficulty Level",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Length",
+                "weight": 0.4
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 71,
+        "game_id": 400,
+        "game_name": "Portal",
+        "primary_genre": "Puzzle",
+        "semantic_features": [
+            {
+                "feature_name": "Originality",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Storytelling",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Gameplay Mechanics",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Difficulty Level",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Length",
+                "weight": 0.4
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 72,
+        "game_id": 420,
+        "game_name": "Half-Life 2: Episode Two",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Storytelling",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 73,
+        "game_id": 420,
+        "game_name": "Half-Life 2: Episode Two",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Storytelling",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 74,
+        "game_id": 420,
+        "game_name": "Half-Life 2: Episode Two",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Storytelling",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 75,
+        "game_id": 420,
+        "game_name": "Half-Life 2: Episode Two",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Storytelling",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 76,
+        "game_id": 440,
+        "game_name": "Team Fortress 2",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Community",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Customization",
+                "weight": 0.8
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 77,
+        "game_id": 440,
+        "game_name": "Team Fortress 2",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Community",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Customization",
+                "weight": 0.8
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 78,
+        "game_id": 440,
+        "game_name": "Team Fortress 2",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Community",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Customization",
+                "weight": 0.8
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 79,
+        "game_id": 440,
+        "game_name": "Team Fortress 2",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Community",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Customization",
+                "weight": 0.8
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 80,
+        "game_id": 500,
+        "game_name": "Left 4 Dead",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "cooperative gameplay",
+                "weight": 0.85
+            },
+            {
+                "feature_name": "zombie apocalypse theme",
+                "weight": 0.78
+            },
+            {
+                "feature_name": "teamwork emphasis",
+                "weight": 0.75
+            },
+            {
+                "feature_name": "addictive gameplay",
+                "weight": 0.72
+            },
+            {
+                "feature_name": "impressive graphics",
+                "weight": 0.68
+            },
+            {
+                "feature_name": "replay value",
+                "weight": 0.65
+            },
+            {
+                "feature_name": "online co-op experience",
+                "weight": 0.62
+            },
+            {
+                "feature_name": "zombie gameplay mechanics",
+                "weight": 0.59
+            },
+            {
+                "feature_name": "difficulty level",
+                "weight": 0.56
+            },
+            {
+                "feature_name": "game length",
+                "weight": 0.53
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 81,
+        "game_id": 500,
+        "game_name": "Left 4 Dead",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "cooperative gameplay",
+                "weight": 0.85
+            },
+            {
+                "feature_name": "zombie apocalypse theme",
+                "weight": 0.78
+            },
+            {
+                "feature_name": "teamwork emphasis",
+                "weight": 0.75
+            },
+            {
+                "feature_name": "addictive gameplay",
+                "weight": 0.72
+            },
+            {
+                "feature_name": "impressive graphics",
+                "weight": 0.68
+            },
+            {
+                "feature_name": "replay value",
+                "weight": 0.65
+            },
+            {
+                "feature_name": "online co-op experience",
+                "weight": 0.62
+            },
+            {
+                "feature_name": "zombie gameplay mechanics",
+                "weight": 0.59
+            },
+            {
+                "feature_name": "difficulty level",
+                "weight": 0.56
+            },
+            {
+                "feature_name": "game length",
+                "weight": 0.53
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 82,
+        "game_id": 500,
+        "game_name": "Left 4 Dead",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "cooperative gameplay",
+                "weight": 0.85
+            },
+            {
+                "feature_name": "zombie apocalypse theme",
+                "weight": 0.78
+            },
+            {
+                "feature_name": "teamwork emphasis",
+                "weight": 0.75
+            },
+            {
+                "feature_name": "addictive gameplay",
+                "weight": 0.72
+            },
+            {
+                "feature_name": "impressive graphics",
+                "weight": 0.68
+            },
+            {
+                "feature_name": "replay value",
+                "weight": 0.65
+            },
+            {
+                "feature_name": "online co-op experience",
+                "weight": 0.62
+            },
+            {
+                "feature_name": "zombie gameplay mechanics",
+                "weight": 0.59
+            },
+            {
+                "feature_name": "difficulty level",
+                "weight": 0.56
+            },
+            {
+                "feature_name": "game length",
+                "weight": 0.53
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 83,
+        "game_id": 500,
+        "game_name": "Left 4 Dead",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "cooperative gameplay",
+                "weight": 0.85
+            },
+            {
+                "feature_name": "zombie apocalypse theme",
+                "weight": 0.78
+            },
+            {
+                "feature_name": "teamwork emphasis",
+                "weight": 0.75
+            },
+            {
+                "feature_name": "addictive gameplay",
+                "weight": 0.72
+            },
+            {
+                "feature_name": "impressive graphics",
+                "weight": 0.68
+            },
+            {
+                "feature_name": "replay value",
+                "weight": 0.65
+            },
+            {
+                "feature_name": "online co-op experience",
+                "weight": 0.62
+            },
+            {
+                "feature_name": "zombie gameplay mechanics",
+                "weight": 0.59
+            },
+            {
+                "feature_name": "difficulty level",
+                "weight": 0.56
+            },
+            {
+                "feature_name": "game length",
+                "weight": 0.53
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 84,
+        "game_id": 550,
+        "game_name": "Left 4 Dead 2",
+        "primary_genre": "Action",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Co-op",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Zombies",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Humor",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Community",
+                "weight": -0.3
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 85,
+        "game_id": 550,
+        "game_name": "Left 4 Dead 2",
+        "primary_genre": "Action",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Co-op",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Zombies",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Humor",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Community",
+                "weight": -0.3
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 86,
+        "game_id": 550,
+        "game_name": "Left 4 Dead 2",
+        "primary_genre": "Action",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Co-op",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Zombies",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Humor",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Community",
+                "weight": -0.3
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 87,
+        "game_id": 550,
+        "game_name": "Left 4 Dead 2",
+        "primary_genre": "Action",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Co-op",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Zombies",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Humor",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Community",
+                "weight": -0.3
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 88,
+        "game_id": 570,
+        "game_name": "Dota 2",
+        "primary_genre": "MOBA",
+        "semantic_features": [
+            {
+                "feature_name": "addictive",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "socially_damaging",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "culturally_insensitive",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "mentally_challenging",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "fun",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "educational",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 89,
+        "game_id": 570,
+        "game_name": "Dota 2",
+        "primary_genre": "MOBA",
+        "semantic_features": [
+            {
+                "feature_name": "addictive",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "socially_damaging",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "culturally_insensitive",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "mentally_challenging",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "fun",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "educational",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 90,
+        "game_id": 570,
+        "game_name": "Dota 2",
+        "primary_genre": "MOBA",
+        "semantic_features": [
+            {
+                "feature_name": "addictive",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "socially_damaging",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "culturally_insensitive",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "mentally_challenging",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "fun",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "educational",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 91,
+        "game_id": 570,
+        "game_name": "Dota 2",
+        "primary_genre": "MOBA",
+        "semantic_features": [
+            {
+                "feature_name": "addictive",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "socially_damaging",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "culturally_insensitive",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "mentally_challenging",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "fun",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "educational",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 92,
+        "game_id": 620,
+        "game_name": "Portal 2",
+        "primary_genre": "Puzzle",
+        "semantic_features": [
+            {
+                "feature_name": "Storyline",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Humor",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Co-op",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Puzzles",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 93,
+        "game_id": 620,
+        "game_name": "Portal 2",
+        "primary_genre": "Puzzle",
+        "semantic_features": [
+            {
+                "feature_name": "Storyline",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Humor",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Co-op",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Puzzles",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 94,
+        "game_id": 620,
+        "game_name": "Portal 2",
+        "primary_genre": "Puzzle",
+        "semantic_features": [
+            {
+                "feature_name": "Storyline",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Humor",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Co-op",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Puzzles",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 95,
+        "game_id": 620,
+        "game_name": "Portal 2",
+        "primary_genre": "Puzzle",
+        "semantic_features": [
+            {
+                "feature_name": "Storyline",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Humor",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Co-op",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Puzzles",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 96,
+        "game_id": 630,
+        "game_name": "Alien Swarm",
+        "primary_genre": "Top-Down Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Co-op Multiplayer",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Free to Play",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Alien Theme",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Addictive",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Fun",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 97,
+        "game_id": 630,
+        "game_name": "Alien Swarm",
+        "primary_genre": "Top-Down Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Co-op Multiplayer",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Free to Play",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Alien Theme",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Addictive",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Fun",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 98,
+        "game_id": 630,
+        "game_name": "Alien Swarm",
+        "primary_genre": "Top-Down Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Co-op Multiplayer",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Free to Play",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Alien Theme",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Addictive",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Fun",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 99,
+        "game_id": 630,
+        "game_name": "Alien Swarm",
+        "primary_genre": "Top-Down Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Co-op Multiplayer",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Free to Play",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Alien Theme",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Addictive",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Fun",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 100,
+        "game_id": 1002,
+        "game_name": "Rag Doll Kung Fu",
+        "primary_genre": "Fighting",
+        "semantic_features": [
+            {
+                "feature_name": "Physics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Bullet Time",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Difficulty Curve",
+                "weight": -0.6
+            },
+            {
+                "feature_name": "Community",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Originality",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.7
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 101,
+        "game_id": 1002,
+        "game_name": "Rag Doll Kung Fu",
+        "primary_genre": "Fighting",
+        "semantic_features": [
+            {
+                "feature_name": "Physics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Bullet Time",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Difficulty Curve",
+                "weight": -0.6
+            },
+            {
+                "feature_name": "Community",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Originality",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.7
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 102,
+        "game_id": 1002,
+        "game_name": "Rag Doll Kung Fu",
+        "primary_genre": "Fighting",
+        "semantic_features": [
+            {
+                "feature_name": "Physics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Bullet Time",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Difficulty Curve",
+                "weight": -0.6
+            },
+            {
+                "feature_name": "Community",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Originality",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.7
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 103,
+        "game_id": 1002,
+        "game_name": "Rag Doll Kung Fu",
+        "primary_genre": "Fighting",
+        "semantic_features": [
+            {
+                "feature_name": "Physics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Bullet Time",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Difficulty Curve",
+                "weight": -0.6
+            },
+            {
+                "feature_name": "Community",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Originality",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.7
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 104,
+        "game_id": 1200,
+        "game_name": "Red Orchestra: Ostfront 41-45",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Realism",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Tactical Gameplay",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "WWII Setting",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Bolt-Action Rifles",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Tank Warfare",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 105,
+        "game_id": 1200,
+        "game_name": "Red Orchestra: Ostfront 41-45",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Realism",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Tactical Gameplay",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "WWII Setting",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Bolt-Action Rifles",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Tank Warfare",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 106,
+        "game_id": 1200,
+        "game_name": "Red Orchestra: Ostfront 41-45",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Realism",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Tactical Gameplay",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "WWII Setting",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Bolt-Action Rifles",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Tank Warfare",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 107,
+        "game_id": 1200,
+        "game_name": "Red Orchestra: Ostfront 41-45",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Realism",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Tactical Gameplay",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "WWII Setting",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Bolt-Action Rifles",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Tank Warfare",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 108,
+        "game_id": 1250,
+        "game_name": "Killing Floor",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Co-op",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Zombie Apocalypse",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Wave-Based Gameplay",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Perk System",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Class System",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "Customization",
+                "weight": 0.2
+            },
+            {
+                "feature_name": "Replayability",
+                "weight": 0.1
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 109,
+        "game_id": 1250,
+        "game_name": "Killing Floor",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Co-op",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Zombie Apocalypse",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Wave-Based Gameplay",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Perk System",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Class System",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "Customization",
+                "weight": 0.2
+            },
+            {
+                "feature_name": "Replayability",
+                "weight": 0.1
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 110,
+        "game_id": 1250,
+        "game_name": "Killing Floor",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Co-op",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Zombie Apocalypse",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Wave-Based Gameplay",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Perk System",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Class System",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "Customization",
+                "weight": 0.2
+            },
+            {
+                "feature_name": "Replayability",
+                "weight": 0.1
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 111,
+        "game_id": 1250,
+        "game_name": "Killing Floor",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Co-op",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Zombie Apocalypse",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Wave-Based Gameplay",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Perk System",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Class System",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "Customization",
+                "weight": 0.2
+            },
+            {
+                "feature_name": "Replayability",
+                "weight": 0.1
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 112,
+        "game_id": 1300,
+        "game_name": "SiN Episodes: Emergence",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.15
+            },
+            {
+                "feature_name": "Graphics/Sound",
+                "weight": 0.12
+            },
+            {
+                "feature_name": "Story/Plot",
+                "weight": 0.1
+            },
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.08
+            },
+            {
+                "feature_name": "Originality",
+                "weight": 0.07
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 113,
+        "game_id": 1300,
+        "game_name": "SiN Episodes: Emergence",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.15
+            },
+            {
+                "feature_name": "Graphics/Sound",
+                "weight": 0.12
+            },
+            {
+                "feature_name": "Story/Plot",
+                "weight": 0.1
+            },
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.08
+            },
+            {
+                "feature_name": "Originality",
+                "weight": 0.07
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 114,
+        "game_id": 1300,
+        "game_name": "SiN Episodes: Emergence",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.15
+            },
+            {
+                "feature_name": "Graphics/Sound",
+                "weight": 0.12
+            },
+            {
+                "feature_name": "Story/Plot",
+                "weight": 0.1
+            },
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.08
+            },
+            {
+                "feature_name": "Originality",
+                "weight": 0.07
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 115,
+        "game_id": 1300,
+        "game_name": "SiN Episodes: Emergence",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.15
+            },
+            {
+                "feature_name": "Graphics/Sound",
+                "weight": 0.12
+            },
+            {
+                "feature_name": "Story/Plot",
+                "weight": 0.1
+            },
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.08
+            },
+            {
+                "feature_name": "Originality",
+                "weight": 0.07
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 116,
+        "game_id": 1313,
+        "game_name": "SiN: Gold",
+        "primary_genre": "Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Nostalgia",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": -0.7
+            },
+            {
+                "feature_name": "Story",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": -0.4
+            },
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "Originality",
+                "weight": -0.2
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 117,
+        "game_id": 1313,
+        "game_name": "SiN: Gold",
+        "primary_genre": "Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Nostalgia",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": -0.7
+            },
+            {
+                "feature_name": "Story",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": -0.4
+            },
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "Originality",
+                "weight": -0.2
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 118,
+        "game_id": 1313,
+        "game_name": "SiN: Gold",
+        "primary_genre": "Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Nostalgia",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": -0.7
+            },
+            {
+                "feature_name": "Story",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": -0.4
+            },
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "Originality",
+                "weight": -0.2
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 119,
+        "game_id": 1313,
+        "game_name": "SiN: Gold",
+        "primary_genre": "Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Nostalgia",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": -0.7
+            },
+            {
+                "feature_name": "Story",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": -0.4
+            },
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "Originality",
+                "weight": -0.2
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 120,
+        "game_id": 1500,
+        "game_name": "Darwinia",
+        "primary_genre": "Strategy",
+        "semantic_features": [
+            {
+                "feature_name": "Originality",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Replayability",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Gameplay Mechanics",
+                "weight": 0.8
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 121,
+        "game_id": 1500,
+        "game_name": "Darwinia",
+        "primary_genre": "Strategy",
+        "semantic_features": [
+            {
+                "feature_name": "Originality",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Replayability",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Gameplay Mechanics",
+                "weight": 0.8
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 122,
+        "game_id": 1500,
+        "game_name": "Darwinia",
+        "primary_genre": "Strategy",
+        "semantic_features": [
+            {
+                "feature_name": "Originality",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Replayability",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Gameplay Mechanics",
+                "weight": 0.8
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 123,
+        "game_id": 1500,
+        "game_name": "Darwinia",
+        "primary_genre": "Strategy",
+        "semantic_features": [
+            {
+                "feature_name": "Originality",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Replayability",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Gameplay Mechanics",
+                "weight": 0.8
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 124,
+        "game_id": 1510,
+        "game_name": "Uplink",
+        "primary_genre": "Simulation",
+        "semantic_features": [
+            {
+                "feature_name": "Immersive Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Open-Ended and Complex",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Retro Interface Style",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "High Replay Value",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Challenging and Interesting",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Text-Based Gameplay",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "2D Graphics Based",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 125,
+        "game_id": 1510,
+        "game_name": "Uplink",
+        "primary_genre": "Simulation",
+        "semantic_features": [
+            {
+                "feature_name": "Immersive Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Open-Ended and Complex",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Retro Interface Style",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "High Replay Value",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Challenging and Interesting",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Text-Based Gameplay",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "2D Graphics Based",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 126,
+        "game_id": 1510,
+        "game_name": "Uplink",
+        "primary_genre": "Simulation",
+        "semantic_features": [
+            {
+                "feature_name": "Immersive Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Open-Ended and Complex",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Retro Interface Style",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "High Replay Value",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Challenging and Interesting",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Text-Based Gameplay",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "2D Graphics Based",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 127,
+        "game_id": 1510,
+        "game_name": "Uplink",
+        "primary_genre": "Simulation",
+        "semantic_features": [
+            {
+                "feature_name": "Immersive Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Open-Ended and Complex",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Retro Interface Style",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "High Replay Value",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Challenging and Interesting",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Text-Based Gameplay",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "2D Graphics Based",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 128,
+        "game_id": 1520,
+        "game_name": "DEFCON",
+        "primary_genre": "Strategy",
+        "semantic_features": [
+            {
+                "feature_name": "Violence",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Nuclear War",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Global Conflict",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Strategy",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Atmosphere",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 129,
+        "game_id": 1520,
+        "game_name": "DEFCON",
+        "primary_genre": "Strategy",
+        "semantic_features": [
+            {
+                "feature_name": "Violence",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Nuclear War",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Global Conflict",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Strategy",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Atmosphere",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 130,
+        "game_id": 1520,
+        "game_name": "DEFCON",
+        "primary_genre": "Strategy",
+        "semantic_features": [
+            {
+                "feature_name": "Violence",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Nuclear War",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Global Conflict",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Strategy",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Atmosphere",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 131,
+        "game_id": 1520,
+        "game_name": "DEFCON",
+        "primary_genre": "Strategy",
+        "semantic_features": [
+            {
+                "feature_name": "Violence",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Nuclear War",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Global Conflict",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Strategy",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Atmosphere",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 132,
+        "game_id": 1530,
+        "game_name": "Multiwinia",
+        "primary_genre": "RTS",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Strategy",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Simple",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Fun",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Addictive",
+                "weight": 0.5
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 133,
+        "game_id": 1530,
+        "game_name": "Multiwinia",
+        "primary_genre": "RTS",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Strategy",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Simple",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Fun",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Addictive",
+                "weight": 0.5
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 134,
+        "game_id": 1530,
+        "game_name": "Multiwinia",
+        "primary_genre": "RTS",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Strategy",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Simple",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Fun",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Addictive",
+                "weight": 0.5
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 135,
+        "game_id": 1530,
+        "game_name": "Multiwinia",
+        "primary_genre": "RTS",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Strategy",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Simple",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Fun",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Addictive",
+                "weight": 0.5
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 136,
+        "game_id": 1600,
+        "game_name": "Dangerous Waters",
+        "primary_genre": "Simulation",
+        "semantic_features": [
+            {
+                "feature_name": "Realism",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Depth",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Complexity",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Steep Learning Curve",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Immersive Gameplay",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Realistic Sound Effects",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Multiplayer Support",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "User-Generated Content",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 137,
+        "game_id": 1600,
+        "game_name": "Dangerous Waters",
+        "primary_genre": "Simulation",
+        "semantic_features": [
+            {
+                "feature_name": "Realism",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Depth",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Complexity",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Steep Learning Curve",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Immersive Gameplay",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Realistic Sound Effects",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Multiplayer Support",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "User-Generated Content",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 138,
+        "game_id": 1600,
+        "game_name": "Dangerous Waters",
+        "primary_genre": "Simulation",
+        "semantic_features": [
+            {
+                "feature_name": "Realism",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Depth",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Complexity",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Steep Learning Curve",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Immersive Gameplay",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Realistic Sound Effects",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Multiplayer Support",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "User-Generated Content",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 139,
+        "game_id": 1600,
+        "game_name": "Dangerous Waters",
+        "primary_genre": "Simulation",
+        "semantic_features": [
+            {
+                "feature_name": "Realism",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Depth",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Complexity",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Steep Learning Curve",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Immersive Gameplay",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Realistic Sound Effects",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Multiplayer Support",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "User-Generated Content",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 140,
+        "game_id": 1610,
+        "game_name": "Space Empires IV Deluxe",
+        "primary_genre": "Strategy",
+        "semantic_features": [
+            {
+                "feature_name": "Complexity",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Customization",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Replayability",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "AI",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Modding",
+                "weight": 0.6
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 141,
+        "game_id": 1610,
+        "game_name": "Space Empires IV Deluxe",
+        "primary_genre": "Strategy",
+        "semantic_features": [
+            {
+                "feature_name": "Complexity",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Customization",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Replayability",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "AI",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Modding",
+                "weight": 0.6
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 142,
+        "game_id": 1610,
+        "game_name": "Space Empires IV Deluxe",
+        "primary_genre": "Strategy",
+        "semantic_features": [
+            {
+                "feature_name": "Complexity",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Customization",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Replayability",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "AI",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Modding",
+                "weight": 0.6
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 143,
+        "game_id": 1610,
+        "game_name": "Space Empires IV Deluxe",
+        "primary_genre": "Strategy",
+        "semantic_features": [
+            {
+                "feature_name": "Complexity",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Customization",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Replayability",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "AI",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Modding",
+                "weight": 0.6
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 144,
+        "game_id": 1630,
+        "game_name": "Disciples II: Rise of the Elves",
+        "primary_genre": "Turn-based Strategy",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Replay Value",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 145,
+        "game_id": 1630,
+        "game_name": "Disciples II: Rise of the Elves",
+        "primary_genre": "Turn-based Strategy",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Replay Value",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 146,
+        "game_id": 1630,
+        "game_name": "Disciples II: Rise of the Elves",
+        "primary_genre": "Turn-based Strategy",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Replay Value",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 147,
+        "game_id": 1630,
+        "game_name": "Disciples II: Rise of the Elves",
+        "primary_genre": "Turn-based Strategy",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Replay Value",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 148,
+        "game_id": 1640,
+        "game_name": "Disciples II: Gallean's Return",
+        "primary_genre": "Turn-Based Strategy",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.4
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 149,
+        "game_id": 1640,
+        "game_name": "Disciples II: Gallean's Return",
+        "primary_genre": "Turn-Based Strategy",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.4
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 150,
+        "game_id": 1640,
+        "game_name": "Disciples II: Gallean's Return",
+        "primary_genre": "Turn-Based Strategy",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.4
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 151,
+        "game_id": 1640,
+        "game_name": "Disciples II: Gallean's Return",
+        "primary_genre": "Turn-Based Strategy",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.4
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 152,
+        "game_id": 1690,
+        "game_name": "Space Empires V",
+        "primary_genre": "Strategy",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay Depth",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Customization Options",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Research Tree Complexity",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Ship Design and Customization",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Diplomacy and Espionage Options",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "AI Intelligence",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "Graphics and Sound Quality",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 153,
+        "game_id": 1690,
+        "game_name": "Space Empires V",
+        "primary_genre": "Strategy",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay Depth",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Customization Options",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Research Tree Complexity",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Ship Design and Customization",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Diplomacy and Espionage Options",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "AI Intelligence",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "Graphics and Sound Quality",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 154,
+        "game_id": 1690,
+        "game_name": "Space Empires V",
+        "primary_genre": "Strategy",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay Depth",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Customization Options",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Research Tree Complexity",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Ship Design and Customization",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Diplomacy and Espionage Options",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "AI Intelligence",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "Graphics and Sound Quality",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 155,
+        "game_id": 1690,
+        "game_name": "Space Empires V",
+        "primary_genre": "Strategy",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay Depth",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Customization Options",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Research Tree Complexity",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Ship Design and Customization",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Diplomacy and Espionage Options",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "AI Intelligence",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "Graphics and Sound Quality",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 156,
+        "game_id": 1700,
+        "game_name": "Arx Fatalis",
+        "primary_genre": "RPG",
+        "semantic_features": [
+            {
+                "feature_name": "atmosphere",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "immersive",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "magic_system",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "exploration",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "combat",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "stealth",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "crafting",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 157,
+        "game_id": 1700,
+        "game_name": "Arx Fatalis",
+        "primary_genre": "RPG",
+        "semantic_features": [
+            {
+                "feature_name": "atmosphere",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "immersive",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "magic_system",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "exploration",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "combat",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "stealth",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "crafting",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 158,
+        "game_id": 1700,
+        "game_name": "Arx Fatalis",
+        "primary_genre": "RPG",
+        "semantic_features": [
+            {
+                "feature_name": "atmosphere",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "immersive",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "magic_system",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "exploration",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "combat",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "stealth",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "crafting",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 159,
+        "game_id": 1700,
+        "game_name": "Arx Fatalis",
+        "primary_genre": "RPG",
+        "semantic_features": [
+            {
+                "feature_name": "atmosphere",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "immersive",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "magic_system",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "exploration",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "combat",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "stealth",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "crafting",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 160,
+        "game_id": 1840,
+        "game_name": "Source Filmmaker",
+        "primary_genre": "Animation",
+        "semantic_features": [
+            {
+                "feature_name": "Ease of Use",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Customizability",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Community Support",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Free",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Versatility",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Stability",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 161,
+        "game_id": 1840,
+        "game_name": "Source Filmmaker",
+        "primary_genre": "Animation",
+        "semantic_features": [
+            {
+                "feature_name": "Ease of Use",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Customizability",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Community Support",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Free",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Versatility",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Stability",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 162,
+        "game_id": 1840,
+        "game_name": "Source Filmmaker",
+        "primary_genre": "Animation",
+        "semantic_features": [
+            {
+                "feature_name": "Ease of Use",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Customizability",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Community Support",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Free",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Versatility",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Stability",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 163,
+        "game_id": 1840,
+        "game_name": "Source Filmmaker",
+        "primary_genre": "Animation",
+        "semantic_features": [
+            {
+                "feature_name": "Ease of Use",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Customizability",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Community Support",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Free",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Versatility",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Stability",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 164,
+        "game_id": 1900,
+        "game_name": "Earth 2160",
+        "primary_genre": "Real-Time Strategy",
+        "semantic_features": [
+            {
+                "feature_name": "Campaign Mode",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Multiplayer Support",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Unit Customization",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Base Building",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Research System",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Unique Factions",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Graphical Quality",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Soundtrack and Sound Effects",
+                "weight": 0.6
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 165,
+        "game_id": 1900,
+        "game_name": "Earth 2160",
+        "primary_genre": "Real-Time Strategy",
+        "semantic_features": [
+            {
+                "feature_name": "Campaign Mode",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Multiplayer Support",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Unit Customization",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Base Building",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Research System",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Unique Factions",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Graphical Quality",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Soundtrack and Sound Effects",
+                "weight": 0.6
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 166,
+        "game_id": 1900,
+        "game_name": "Earth 2160",
+        "primary_genre": "Real-Time Strategy",
+        "semantic_features": [
+            {
+                "feature_name": "Campaign Mode",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Multiplayer Support",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Unit Customization",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Base Building",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Research System",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Unique Factions",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Graphical Quality",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Soundtrack and Sound Effects",
+                "weight": 0.6
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 167,
+        "game_id": 1900,
+        "game_name": "Earth 2160",
+        "primary_genre": "Real-Time Strategy",
+        "semantic_features": [
+            {
+                "feature_name": "Campaign Mode",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Multiplayer Support",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Unit Customization",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Base Building",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Research System",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Unique Factions",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Graphical Quality",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Soundtrack and Sound Effects",
+                "weight": 0.6
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 168,
+        "game_id": 1930,
+        "game_name": "Two Worlds: Epic Edition",
+        "primary_genre": "RPG",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.4
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 169,
+        "game_id": 1930,
+        "game_name": "Two Worlds: Epic Edition",
+        "primary_genre": "RPG",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.4
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 170,
+        "game_id": 1930,
+        "game_name": "Two Worlds: Epic Edition",
+        "primary_genre": "RPG",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.4
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 171,
+        "game_id": 1930,
+        "game_name": "Two Worlds: Epic Edition",
+        "primary_genre": "RPG",
+        "semantic_features": [
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.4
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 172,
+        "game_id": 2100,
+        "game_name": "Dark Messiah of Might & Magic Single Player",
+        "primary_genre": "Action RPG",
+        "semantic_features": [
+            {
+                "feature_name": "Combat Mechanics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Physics Engine",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Replayability",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 173,
+        "game_id": 2100,
+        "game_name": "Dark Messiah of Might & Magic Single Player",
+        "primary_genre": "Action RPG",
+        "semantic_features": [
+            {
+                "feature_name": "Combat Mechanics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Physics Engine",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Replayability",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 174,
+        "game_id": 2100,
+        "game_name": "Dark Messiah of Might & Magic Single Player",
+        "primary_genre": "Action RPG",
+        "semantic_features": [
+            {
+                "feature_name": "Combat Mechanics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Physics Engine",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Replayability",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 175,
+        "game_id": 2100,
+        "game_name": "Dark Messiah of Might & Magic Single Player",
+        "primary_genre": "Action RPG",
+        "semantic_features": [
+            {
+                "feature_name": "Combat Mechanics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Physics Engine",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Replayability",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 176,
+        "game_id": 2200,
+        "game_name": "Quake III Arena",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Nostalgia",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Competitive Gameplay",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Twitch Gaming",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Classic Game",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Difficulty Level",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "Community Support",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 177,
+        "game_id": 2200,
+        "game_name": "Quake III Arena",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Nostalgia",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Competitive Gameplay",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Twitch Gaming",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Classic Game",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Difficulty Level",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "Community Support",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 178,
+        "game_id": 2200,
+        "game_name": "Quake III Arena",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Nostalgia",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Competitive Gameplay",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Twitch Gaming",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Classic Game",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Difficulty Level",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "Community Support",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 179,
+        "game_id": 2200,
+        "game_name": "Quake III Arena",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Nostalgia",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Competitive Gameplay",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Twitch Gaming",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Classic Game",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Difficulty Level",
+                "weight": 0.3
+            },
+            {
+                "feature_name": "Community Support",
+                "weight": 0.2
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 180,
+        "game_id": 2210,
+        "game_name": "Quake 4",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Storyline",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 181,
+        "game_id": 2210,
+        "game_name": "Quake 4",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Storyline",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 182,
+        "game_id": 2210,
+        "game_name": "Quake 4",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Storyline",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 183,
+        "game_id": 2210,
+        "game_name": "Quake 4",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Storyline",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.3
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 184,
+        "game_id": 2270,
+        "game_name": "Wolfenstein 3D",
+        "primary_genre": "FPS",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Replay Value",
+                "weight": 0.9
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 185,
+        "game_id": 2270,
+        "game_name": "Wolfenstein 3D",
+        "primary_genre": "FPS",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Replay Value",
+                "weight": 0.9
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 186,
+        "game_id": 2270,
+        "game_name": "Wolfenstein 3D",
+        "primary_genre": "FPS",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Replay Value",
+                "weight": 0.9
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 187,
+        "game_id": 2270,
+        "game_name": "Wolfenstein 3D",
+        "primary_genre": "FPS",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Replay Value",
+                "weight": 0.9
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 188,
+        "game_id": 2280,
+        "game_name": "The Ultimate DOOM",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Story",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Replay Value",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.7
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 189,
+        "game_id": 2280,
+        "game_name": "The Ultimate DOOM",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Story",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Replay Value",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.7
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 190,
+        "game_id": 2280,
+        "game_name": "The Ultimate DOOM",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Story",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Replay Value",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.7
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 191,
+        "game_id": 2280,
+        "game_name": "The Ultimate DOOM",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Story",
+                "weight": 0.4
+            },
+            {
+                "feature_name": "Replay Value",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Multiplayer",
+                "weight": 0.7
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 192,
+        "game_id": 2290,
+        "game_name": "Final DOOM",
+        "primary_genre": "FPS",
+        "semantic_features": [
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Length",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Challenge",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Nostalgia",
+                "weight": 0.6
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 193,
+        "game_id": 2290,
+        "game_name": "Final DOOM",
+        "primary_genre": "FPS",
+        "semantic_features": [
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Length",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Challenge",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Nostalgia",
+                "weight": 0.6
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 194,
+        "game_id": 2290,
+        "game_name": "Final DOOM",
+        "primary_genre": "FPS",
+        "semantic_features": [
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Length",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Challenge",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Nostalgia",
+                "weight": 0.6
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 195,
+        "game_id": 2290,
+        "game_name": "Final DOOM",
+        "primary_genre": "FPS",
+        "semantic_features": [
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Length",
+                "weight": 0.7
+            },
+            {
+                "feature_name": "Graphics",
+                "weight": 0.5
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Challenge",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Nostalgia",
+                "weight": 0.6
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 196,
+        "game_id": 2300,
+        "game_name": "DOOM II: Hell on Earth",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Replayability",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.7
+            }
+        ],
+        "incentive_id": "FULL_PRICE",
+        "final_price": 59.9,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 197,
+        "game_id": 2300,
+        "game_name": "DOOM II: Hell on Earth",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Replayability",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.7
+            }
+        ],
+        "incentive_id": "COUPON_10",
+        "final_price": 53.91,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 198,
+        "game_id": 2300,
+        "game_name": "DOOM II: Hell on Earth",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Replayability",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.7
+            }
+        ],
+        "incentive_id": "COUPON_20",
+        "final_price": 47.92,
+        "platforms": [
+            "PC"
+        ]
+    },
+    {
+        "arm_id": 199,
+        "game_id": 2300,
+        "game_name": "DOOM II: Hell on Earth",
+        "primary_genre": "First-Person Shooter",
+        "semantic_features": [
+            {
+                "feature_name": "Graphics",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Gameplay",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Storyline",
+                "weight": 0.6
+            },
+            {
+                "feature_name": "Soundtrack",
+                "weight": 0.8
+            },
+            {
+                "feature_name": "Replayability",
+                "weight": 0.9
+            },
+            {
+                "feature_name": "Difficulty",
+                "weight": 0.7
+            }
+        ],
+        "incentive_id": "VIP_PASS",
+        "final_price": 0.0,
+        "platforms": [
+            "PC"
+        ]
+    }
+]
