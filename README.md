@@ -4,12 +4,6 @@
 **Grupo:** Grupo 62 · **Turma:** MLET7
 **Caso de Negócio:** Marketplace de Jogos e Assinaturas Cross-Platform
 
-> ⚠️ **Projeto em desenvolvimento ativo.** Etapas e artefatos estão sendo
-> construídos de forma incremental; algumas pastas e arquivos citados como
-> "planejados" ainda não existem no repositório.
-
----
-
 ## 1. Visão Geral do Problema
 
 No cenário competitivo do entretenimento digital, marketplaces de jogos têm
