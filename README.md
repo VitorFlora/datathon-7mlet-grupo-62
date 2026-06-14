@@ -73,6 +73,11 @@ estática para um sistema adaptativo de precificação e ofertas.
 - [Ollama](https://ollama.com) instalado no sistema
 - NVIDIA GPU com CUDA (opcional, acelera a LLM local)
 
+> **Máquina sem GPU dedicada?** O pipeline usa o `llama3.1` (8B) por padrão. Em
+> máquinas mais fracas, troque a constante `MODEL_NAME` em
+> `src/features/extract_semantics.py` por um modelo menor e muito mais rápido,
+> como `llama3.2:3b` (rode antes: `ollama pull llama3.2:3b`).
+
 ## 6. Instalação e Execução Local
 
 ```bash
@@ -83,16 +88,25 @@ conda activate datathon-7mlet
 # 2. Instale o projeto e suas dependências (a partir da raiz do repositório)
 pip install .
 
-# 3. Baixe o modelo da LLM local
+# 3. Inicie o servidor do Ollama (em um terminal separado, deixe rodando)
+#    Pule este passo se o app do Ollama já estiver ativo (ícone na bandeja do sistema).
+ollama serve
+
+# 4. Baixe o modelo da LLM local
 ollama pull llama3.1
 
-# 4. Coloque as bases do Kaggle em data/kaggle/ (ver data/kaggle/README.md)
+# 5. Coloque as bases do Kaggle em data/kaggle/ (ver data/kaggle/README.md)
 
-# 5. Execute o pipeline de extração semântica
+# 6. Execute o pipeline de extração semântica
 #    (rode a partir da pasta src/features/ por causa dos caminhos relativos)
 cd src/features
 python extract_semantics.py
 ```
+
+> **Ollama sem interface gráfica:** não é preciso abrir o app pelo menu iniciar.
+> O comando `ollama serve` sobe o mesmo servidor local (API em
+> `http://localhost:11434`) direto pelo terminal. Se o comando acusar que a porta
+> já está em uso, é porque o servidor já está ativo — pode seguir para o próximo passo.
 
 Para a Análise Exploratória (EDA), abra o notebook
 `notebooks/01_eda_and_quality.ipynb` no VSCode ou no Jupyter.

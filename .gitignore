@@ -54,3 +54,6 @@ mlartifacts/
 Thumbs.db
 .vscode/*
 !.vscode/settings.json
+
+# --- pastas de ajuda ---
+claude/
