@@ -127,6 +127,7 @@ datathon-7mlet-grupo-62/
 │   │   └── games_metadata_with_embeddings.json
 │   └── synthetic_enrichment/    # Camada sintética do Bandit
 │       ├── offer_catalog.json   # Braços (jogo × incentivo)
+│       ├── user_profiles.json   # Contexto dos usuários sintéticos
 │       ├── offer_events.jsonl   # Eventos de impressão simulados
 │       └── delayed_rewards.jsonl
 ├── notebooks/
@@ -149,6 +150,7 @@ datathon-7mlet-grupo-62/
 | `ollama run llama3.1` | Inicia o prompt interativo da LLM local. |
 | `python src/features/extract_semantics.py` | Executa o pipeline de dados (merge + coalesce + Ollama). |
 | `python src/features/generate_synthetic_data.py` | Gera o catálogo e os eventos sintéticos do Bandit. |
+| `python src/features/validate_catalog.py` | Valida a qualidade do catálogo processado (lê só o JSON). |
 | `pytest` | Executa a suíte de testes automatizados (planejado — Etapa 5). |
 
 ## 9. Limitações Conhecidas
