@@ -17,6 +17,9 @@ ALLOWED_GENRES = [
 MODEL_NAME = "llama3.1" #"llama3.2:3b" 
 KEEP_ALIVE = "10m"
 GEN_OPTIONS = {"temperature": 0.0, "num_ctx": 16384, "num_predict": 384}
+max_games = 500
+max_review = 100
+max_review_chars = 600
 
 class GameFeature(BaseModel):
     feature_name: str = Field(max_length=40, description="Tag curta (no máximo 3 palavras) sobre a experiência do jogador.")
@@ -119,9 +122,7 @@ def main():
     
     output_dir = "../../data/processed"
     output_path = os.path.join(output_dir, "games_metadata_with_embeddings.json")
-    max_games = 500
-    max_review = 100
-    max_review_chars = 600
+
 
     os.makedirs(output_dir, exist_ok=True)
     
